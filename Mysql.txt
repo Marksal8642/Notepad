@@ -1,0 +1,84 @@
+Msql Port: 3307
+Mysql Password: Francis8642Marksal$
+Windows Service Name: MySQL80
+..........................
+My Wordpress account
+name--- Francis
+Password---lost8642!$ 
+...........................................
+command to show databases
+show databases;
+command to create database
+create database project;
+...............................
+To create show and create table, use a database to it like
+show tables;
+desc user;
+use database name
+create table user(id int(11) primary key, username varchar(30) not null, password varchar(30) not null);
+.........................................................................................................
+ 
+password: lost8642$!
+info for OneDrive an Microsoft
+....................  
+for free hosting
+koromafrancis59@gmail.com
+lost8642$!
+..........................
+ http://francisk.liveblog365.com/wp-admin/
+http://francisk.liveblog365.com/
+username= Francis
+password= Marksal8642
+..................................................
+password for fkoroma171@central.edu.sl is marksal8642$
+site for download application project is-----> ITSOURCESCODE
+itsourcescode
+Google_account 
+Marksal
+Marksal8642@gmail.com
+Lost8642$$
+...................................................................
+
+Another Github account
+fkoroma171@central.edu.sl
+lost8642Marksal$$
+username = Francis8642
+
+Github Credential
+Marksal8642
+lost8642
+Other Account
+marksal8642@gmail.com
+lost8642!$
+...................................
+Msql Port: 3307
+Mysql Password: Francis8642Marksal$
+Windows Service Name: MySQL80
+..........................
+command to show databases
+show databases;
+command to create database
+create database project;
+...............................
+To create show and create table, use a database to it like
+show tables;
+desc user;
+use database name
+create table user(id int(11) primary key, username varchar(30) not null, password varchar(30) not null);
+.........................................................................................................
+T-password
+ANNIEMOLD COLE
+Principal;
+1, Speak no word that is not true
+2, Make no wepone which one person may kill another
+3, Never to use the one power as a weapone, except in the last extreme defend of life,
+
+Note- The power inside us is the small part of our strength, its our Mind. power are talent, what you are born with and what you can do.
+
+Remember: You dont listen to the wind, is the wind that listen to you
+
+kragboibrahim700@gmail.com
+
+Blend for visual studio 2022
+Azure Data Studio
+
